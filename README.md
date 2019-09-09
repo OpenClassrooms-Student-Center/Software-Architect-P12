@@ -1,10 +1,10 @@
-# The Star
+# WebStreet
 
 # Architecture Definition Document
 
 # Executive Summary 
 
-This document details the baseline architectures and business proposition of the CMS-Star project.
+This document details the baseline architectures and business proposition of the project.
 
 # Purpose
 
@@ -12,7 +12,7 @@ The Architecture Definition Document is the deliverable container for the core a
 
 # Business Context and Drivers
 
-The Star....
+WebStreet ...
 
 Stakeholder Map here
 
