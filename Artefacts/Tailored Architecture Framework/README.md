@@ -45,7 +45,7 @@ These tools are deployed in the organization to help with the website developmen
 
 # Interface with Governance Models
 
-This strict architecture method used in WebStreet could not be a main competitive advantage without the formal support of the organization and internal culture. The following interfaces have contributed to its success and WebStreet success in the market:
+This strict architecture method used in WebStreet could not be a main competitive advantage without the formal support of the organization and internal culture. See [RACI Matrix](../../Images/11_RACI.png) and [Stakeholders Map](../../Images/12_Stakeholders_Map.png). The following interfaces have contributed to its success and WebStreet success in the market:
 
 **Interface with the Recruitment Department:** no programmer or designer writes one line of code if she or he is not trained in WebStreet Architecture Method. This is carefully synchronized between technical teams and WebStreet Recruitment Department (part of HR Department).
 
