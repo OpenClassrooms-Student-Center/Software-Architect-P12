@@ -36,7 +36,7 @@ Our templates and building blocks are divided into two groups:
 
 These tools are deployed in the organization to help with the website development and setup. They are available to all development teams:
 
-**Building Blocks and Templates Dictionary:** a database of all building blocks and templates to start with the design and development of a website for a client. Each entry in the dictionary describes the purpose of the component, the description, updates to the component and typical use. It also has links to projects where this component has been used.
+**Building Blocks Dictionary:** a database of all building blocks to start with the design and development of a website for a client. Each entry in the dictionary describes the purpose of the building block, the description, updates to the component, parameters it may receive, typical use and links to projects where this component has been used.
 
 **Configuration Control Dictionary:** a database of relationships between templates and building blocks. What calls what, what is called by.
 
