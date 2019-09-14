@@ -11,7 +11,7 @@ We plan to reduce cycle times to half. Typical time to deliver to clients is 72 
 
 We need to get to the point where packages are transferred only 3 to 4 times instead of 6 to 7 times like today. We need a new software architecture to achieve this.
 
-This project is scheduled to finish in 8 weeks [High Level Plan](../../Images/12_Stakeholders_Map.png). A Project Team, Sponsor and Providers have been appointed to participate and some other key areas will be involced too (See RACI Matrix and Stakeholder Map).
+This project is scheduled to finish in 8 weeks ([High Level Plan](../../Images/12_Stakeholders_Map.png)). A Project Team, Sponsor and Providers have been appointed to participate and some other key areas will be involced too (See RACI Matrix and Stakeholder Map).
 
 
 # Current Architecture
