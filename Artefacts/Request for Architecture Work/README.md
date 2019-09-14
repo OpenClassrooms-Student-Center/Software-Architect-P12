@@ -2,7 +2,7 @@
 
 WebStreet is a web agency that specializes in quickly creating websites for clients by using industry and style templates. Developing teams have been overwhelmed by increasing sales of our services to customers all over the world. Several years of development have resulted in a complex software environment, which is clearly not scaling with the business and possibly impeding our growth.
 
-Development times must be reduced and leveraged with new tools and techniques so our developers will be able to deliver faster and cheaper using building blocks and templates for websites.  This could only be achieved through a new software architecture that will create an agile environment and allow fluid communication and a common language among our development teams all over the world.
+Development times must be reduced and leveraged with new tools and techniques so our developers will be able to deliver faster and cheaper using building blocks and templates for websites. In this project, building blocks are called Site Atoms. This could only be achieved through a new software architecture that will create an agile environment and allow fluid communication and a common language among our development teams all over the world.
 
 
 # WebStreet Strategic Plan
@@ -23,7 +23,7 @@ For a diagram of the current architecture see [Tailored Architecture Framework](
 
 # Business Agility
 
-All of our business is based on website building blocks and templates. We need a new architecture not only as a starting point but as a platform for new tools, templates, designs and building blocks. The new architecture must support our growing variety of sites, our broad coverage of different industries and new technical tools that appear in the market.
+All of our business is based on website Site Atoms and templates. We need a new architecture not only as a starting point but as a platform for new tools, templates, designs and Site Atoms. The new architecture must support our growing variety of sites, our broad coverage of different industries and new technical tools that appear in the market.
 
 While providing the exact capability required three-years ago, the current platform has been designed in such a way as to make it very hard to change any of those historic decisions. The new platform should allow our product teams to rapidly innovate technologies and methods.
 
@@ -33,7 +33,7 @@ While providing the exact capability required three-years ago, the current platf
 These are some important organizational constraints that we must take into account for this project:
 
 While our staff will dedicate many hours to this project, we cannot ignore our constant deadlines with customers. Serving our customers and fulfilling their expectations in time, budget and quality has been and always will be our #1 priority. Our normal service operations cannot be interrupted because of this project.
-We do not have all the knowledge and experience required for this project inside our organization. Will hire external SMEs (Subject Matter Experts) as freelancers for some technical aspects of this project.
+We do not have all the knowledge and experience required for this project inside our organization. We will hire external SMEs (Subject Matter Experts) as freelancers for some technical aspects of this project.
 Project Sponsors and Project Team will agree on frequency, dynamics and support documents of project status meetings at the beginning of the project. All stakeholders will comply with these agreed principles (See [RACI Matrix](../../Images/11_RACI.png) and [Stakeholders Map](../../Images/12_Stakeholders_Map.png)).
 
 
