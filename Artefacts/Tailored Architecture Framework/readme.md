@@ -34,11 +34,20 @@ Example of a front-end template: a site style. This object displays a whole page
 
 # Interface with Governance Models
 
-This strict architecture method used in WebStreet could not be a main competitive advantage without the formal support of the organization and internal culture. The following factors have contributed to its success inside WebStreet and WebStreet success in the market:
+This strict architecture method used in WebStreet could not be a main competitive advantage without the formal support of the organization and internal culture. The following interfaces have contributed to its success and WebStreet success in the market:
 
-1. No programmer or designer writes one line of code if she or he is not trained in WebStreet Architecture Method. This is carefully sychronized between technical teams and WebStreet recruitment department.
+Interface with the Recruitment Department: no programmer or designer writes one line of code if she or he is not trained in WebStreet Architecture Method. This is carefully synchronized between technical teams and WebStreet Recruitment Department (part of HR Department).
 
-2. There is a dedicated group at WebStreet called AMG (Architecture Method Guardians) whose sole responsibility is to maintain the consistency and improve the dictionary of building blocks and templates. The AMG group act as SME (Subject Matter Expert) on template topics, building blocks and building methods. Technical groups consult informally them on a variety of topics. At the same time, the AMG group is responsible for imparting courses on WebStreet Architecture Method to new recruits as well as experienced developers. 
+Interface with AMG: there is a dedicated group at WebStreet called AMG (Architecture Method Guardians) whose sole responsibility is to maintain the consistency and improve the dictionary of building blocks and templates. The AMG group act as SME (Subject Matter Expert) on template topics, building blocks and building methods. Technical groups consult informally them on a variety of topics. At the same time, the AMG group is responsible for imparting courses on WebStreet Architecture Method to new recruits as well as experienced developers. 
 
-3. There is another dedicated group called CMG (Customization Dictionary Guardians) whose main responsibility is to register all customizations for all clients. This group is a link between the WebStreet technical team that has developed the website and the sales team that has been in contact with the client. They usually join the last part of the sales cycle in order to assess the quantity and size of customization for a particular client, and they work down the road with technical teams in the documentation of the customization process. 
+Interface with CMG: there is another dedicated group called CMG (Customization Dictionary Guardians) whose main responsibility is to register all customizations for all clients. This group is a link between the WebStreet technical team that has developed the website and the sales team that has been in contact with the client. They usually join the last part of the sales cycle in order to assess the quantity and size of customization for a particular client, and they work down the road with technical teams in the documentation of the customization process.
+
+Interface with the Sourcing Department: all external vendors must be certified to work with our existing structure. This certification process is implemented jointly by the Sourcing Department and the AMG.
+
+Interface with the Sales Department: the CMG group participates actively in the sales process and advises the sale team on customization effort.
+ 
+Interface with the E-PMO: there is an E-PMO (Enterprise Project Management Office) in WebStreet that manages a portfolio of projects deployed in all offices of the company. This project will have to be included in that portfolio and will be observed and monitored by the E-PMO.
+
+
+
 
