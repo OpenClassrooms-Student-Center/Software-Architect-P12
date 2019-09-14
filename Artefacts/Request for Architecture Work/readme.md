@@ -2,12 +2,12 @@
 
 WebStreet is a web agency that specializes in quickly creating websites for clients by using industry and style templates. Developing teams have been overwhelmed by increasing sales of our services to customers all over the world. Several years of development have resulted in a complex software environment, which is clearly not scaling with the business and possibly impeding our growth.
 
-Development times must be reduced and leveraged with new tools and techniques so our developers will be able to deliver faster and cheaper using building blocks and templates for websites for clients.  This could only be achieved through a new software architecture that will create an agile environment and allow fluid communication and a common language among our development teams all over the world.
+Development times must be reduced and leveraged with new tools and techniques so our developers will be able to deliver faster and cheaper using building blocks and templates for websites.  This could only be achieved through a new software architecture that will create an agile environment and allow fluid communication and a common language among our development teams all over the world.
 
 
 # WebStreet Strategic Plan
 
-We plan to reduce cycle times to half. Typical time to deliver to clients is 72 hours, we want to shorten this cycle to 36 hours. Our delivery process has always been based on the “Follow The Sun” principle: the customer orders a website and our Master Team starts developing it during the first day, wherever the team is located. This Master Team then transfers the development package to another team located 8 to 12 hours away, and so on until the site is finished. The Master Team must approve the whole cycle at the end and notify the customer.
+We plan to reduce cycle times to half. Typical time to deliver to clients is 72 hours, we want to shorten this cycle to 36 hours. Our delivery process has always been based on the “Follow The Sun” principle: the customer orders a website and our Master Team starts developing it during the first day, wherever the team is located. At the end of the first workday, this Master Team then transfers the development package to another team located 8 to 12 hours away, and so on until the site is finished. The Master Team must approve the whole cycle at the end and notify the customer.
 
 We need to get to the point where packages are transferred only 3 to 4 times instead of 6-7 times like today. We need a new software architecture to achieve this.
 
