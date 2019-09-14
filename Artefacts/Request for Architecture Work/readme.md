@@ -24,6 +24,11 @@ For a diagram of the current architecture see “Tailored Architecture Framework
 
 https://github.com/esterkin31415/Project12/blob/master/Artefacts/Tailored%20Architecture%20Framework/readme.md
 
+[RACI Matrix](../../Images/11_RACI.png)
+[RACI Matrix](../../Images/11_RACI.png)
+[Tailored Architecture Framework](../Tailored Architecture Framework/readme.md)
+[Tailored Architecture Framework](Project12/Artefacts/Tailored Architecture Framework/readme.md)
+[here](Project12/README.md)
 
 
 # Business Agility
