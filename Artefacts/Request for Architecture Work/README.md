@@ -20,7 +20,7 @@ The current architecture at WebStreet is irregular and does not follow a common 
 
 For a diagram of the current architecture see “Tailored Architecture Framework”.
 
-[Tailored Architecture Framework](./Tailored Architecture Framework/README.md)
+[Tailored Architecture Framework](https://github.com/esterkin31415/Project12/blob/master/Artefacts/Tailored%20Architecture%20Framework/README.md)
 
 
 
