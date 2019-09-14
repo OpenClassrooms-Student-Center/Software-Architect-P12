@@ -14,7 +14,7 @@ These are the principles of WebStreet’s architecture methodology:
 
 5. Building blocks may receive parameters such as language, color, style, placement, etc.
 
-6. All client websites are a collection of templates plus some customization. See diagram [here](../../Images/19_Website_Encapsulation.png).
+6. All client websites are a collection of templates plus some customization. See diagram [here](../../Images/19_Website_Encapsulation.jpg).
 
 
 # Tailored Architecture Content
