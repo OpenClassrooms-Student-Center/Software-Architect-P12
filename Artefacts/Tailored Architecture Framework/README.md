@@ -23,13 +23,13 @@ Our templates and building blocks are divided into two groups:
 1. Back-end (procedural) templates and building blocks
 2. Front-end (graphical) templates and building blocks.
 
-Example of a back-end building block: a login object. This object receives a username and password and validates the input in a user database.
+**Example of a back-end building block:** a login object. This object receives a username and password and validates the input in a user database.
 
-Example of a front-end building block: a site header. This object displays a site header with a standard style, color and font. There are site headers for login pages, landing pages and website internal pages.
+**Example of a front-end building block:** a site header. This object displays a site header with a standard style, color and font. There are site headers for login pages, landing pages and website internal pages.
 
-Example of a back-end template: a new user registration. This template validates a new registered user and sends an email to validate that the user is real, asking to change the password to a new one.  This template uses the login object mentioned above, and other back-end objects.
+**Example of a back-end template:** a new user registration. This template validates a new registered user and sends an email to validate that the user is real, asking to change the password to a new one.  This template uses the login object mentioned above, and other back-end objects.
 
-Example of a front-end template: a site style. This object displays a whole page in the website using front end building blocks such as site header, site footer, site left column, pull down menus, etc.
+**Example of a front-end template:** a site style. This object displays a whole page in the website using front end building blocks such as site header, site footer, site left column, pull down menus, etc.
 
 
 # Configured and deployed tools
