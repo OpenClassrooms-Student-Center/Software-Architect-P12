@@ -39,7 +39,7 @@ Project Sponsors and Project Team will agree on frequency, dynamics and support 
 
 # Open Issues
 
-1.There will be customers that require a high level of customization. We will not be able to use our building blocks and templates for these customers. Do we want them as a customer?_
+1. There will be customers that require a high level of customization. We will not be able to use our building blocks and templates for these customers. Do we want them as a customer?_
 
-2.We currently have building blocks and templates only for left-to-right languages (English, French, Spanish, Russian, etc.). Do our architecture, building blocks and templates have to support right-to-left languages? (Arabic, Farsi, Hebrew, etc.)_ 
+2. We currently have building blocks and templates only for left-to-right languages (English, French, Spanish, Russian, etc.). Do our architecture, building blocks and templates have to support right-to-left languages? (Arabic, Farsi, Hebrew, etc.)
 
