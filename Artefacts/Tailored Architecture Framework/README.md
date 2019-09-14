@@ -6,15 +6,15 @@ These are the principles of WebStreet’s architecture methodology:
 
 1. No code is written from scratch. All customizations must maximize the use of templates and building blocks.
 
-2. If a part of the site is customized, it has to be documented at the beginning of the code using our Customization Dictionary.
+2. If a part of the site is customized, it has to be documented at the beginning of the code using our [Customization Dictionary](../../Images/18_Customization_Dictionary.png), which describes what customizations we have been performed for a client, what template or building block has been customized and how.
 
-3. Our Customization Dictionary describes what customizations we have performed for a client, what template or building block has been customized and how.
+3. All documentation must be written with a global team approach: several WebStreet teams located in different time zones are going to develop the website for a specific client and maintain it later.
 
-4. All documentation must be written with a global team approach: several WebStreet teams located in different time zones are going to develop the website for a specific client and maintain it later.
+4. Templates are a collection of building blocks. Templates do not contain specific code.
 
-5. Templates are a collection of building blocks. Templates do not contain specific code.
+5. Building blocks may receive parameters such as language, color, style, placement, etc.
 
-6. Building blocks may receive parameters such as language, color, style, placement, etc.
+6. All client websites are a collection of templates plus some customization. See diagram [here](../../Images/19_Website_Encapsulation.png).
 
 
 # Tailored Architecture Content
