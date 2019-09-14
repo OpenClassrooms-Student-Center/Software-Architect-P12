@@ -18,13 +18,7 @@ This project is scheduled to finish in 8 weeks ([High Level Plan](../../Images/1
 
 The current architecture at WebStreet is irregular and does not follow a common pattern. Site developers rely on their own templates and they usually ask for templates from colleagues based on personal relations. This causes problems when the package is transferred: the new team in another country has to “discover” what templates have been used and must read a lot of documentation before start coding. This fact delays the delivery cycle at least 12 hours. To clearly describe the current architecture we could say “the current architecture is no architecture”.
 
-For a diagram of the current architecture see [Tailored Architecture Framework](https://github.com/esterkin31415/Project12/blob/master/Artefacts/Tailored%20Architecture%20Framework/README.md)
-[Tailored Architecture Framework2](Tailored%20Architecture%20Framework/README.md)
-[Tailored Architecture Framework3](./Tailored%20Architecture%20Framework/README.md)
-[Tailored Architecture Framework4](../Tailored%20Architecture%20Framework/README.md)
-
-
-
+For a diagram of the current architecture see [Tailored Architecture Framework](../Tailored%20Architecture%20Framework/README.md)
 
 
 # Business Agility
