@@ -16,12 +16,6 @@ These are the principles of WebStreet’s architecture method:
 
 6. Building blocks may receive parameters such as language, color, style, placement, etc.
 
-7. No programmer or designer writes one line of code if she or he is not trained in WebStreet Architecture Method.
-
-8. There is a dedicated group at WebStreet called AMG (Architecture Method Guardians) whose sole responsibility is to maintain the consistency and improve the dictionary of building blocks and templates.
-
-9. There is another dedicated group called CMG (Customization Dictionary Guardians) whose main responsibility is to register all customizations for all clients. This group is a link between the WebStreet technical team that has developed the website and the sales team that has been in contact with the client.
-
 
 # Tailored Architecture Content
 
@@ -36,4 +30,15 @@ Example of a front-end building block: a site header. This object displays a sit
 Example of a back-end template: a new user registration. This template validates a new registered user and sends an email to validate that the user is real, asking to change the password to a new one.  This template uses the login object mentioned above, and other back-end objects.
 
 Example of a front-end template: a site style. This object displays a whole page in the website using front end building blocks such as site header, site footer, site left column, pull down menus, etc.
+
+
+# Interface with Governance Models
+
+This strict architecture method used in WebStreet could not be a main competitive advantage without the formal support of the organization and internal culture. The following factors have contributed to its success inside WebStreet and WebStreet success in the market:
+
+1. No programmer or designer writes one line of code if she or he is not trained in WebStreet Architecture Method. This is carefully sychronized between technical teams and WebStreet recruitment department.
+
+2. There is a dedicated group at WebStreet called AMG (Architecture Method Guardians) whose sole responsibility is to maintain the consistency and improve the dictionary of building blocks and templates. The AMG group act as SME (Subject Matter Expert) on template topics, building blocks and building methods. Technical groups consult informally them on a variety of topics. At the same time, the AMG group is responsible for imparting courses on WebStreet Architecture Method to new recruits as well as experienced developers. 
+
+3. There is another dedicated group called CMG (Customization Dictionary Guardians) whose main responsibility is to register all customizations for all clients. This group is a link between the WebStreet technical team that has developed the website and the sales team that has been in contact with the client. They usually join the last part of the sales cycle in order to assess the quantity and size of customization for a particular client, and they work down the road with technical teams in the documentation of the customization process. 
 
