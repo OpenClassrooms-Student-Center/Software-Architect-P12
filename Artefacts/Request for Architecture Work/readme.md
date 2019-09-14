@@ -28,7 +28,7 @@ https://github.com/esterkin31415/Project12/blob/master/Artefacts/Tailored%20Arch
 [RACI Matrix](../../Images/11_RACI.png)
 [Tailored Architecture Framework](../Tailored Architecture Framework/readme.md)
 [Tailored Architecture Framework](Project12/Artefacts/Tailored Architecture Framework/readme.md)
-[Tailored Architecture Framework](../Tailored Architecture Framework/README.md)
+[Tailored Architecture Framework](../Tailored Architecture Framework/readme.md)
 
 
 # Business Agility
