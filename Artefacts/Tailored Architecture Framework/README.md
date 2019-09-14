@@ -1,10 +1,10 @@
-# Tailored Architecture Method
+# Tailored Architecture Framework
 
-WebStreet has a strict architecture method directly related to the business. This method is a main competitive advantage for the company since it allows customizing and setting up a client website in less than 72 hours.
+WebStreet has a strict architecture framework directly related to the business. This framework is a main competitive advantage for the company since it allows customizing and setting up a client website in less than 72 hours.
 
-These are the principles of WebStreet’s architecture method:
+These are the principles of WebStreet’s architecture methodology:
 
-1. All customizations must maximize the use of templates and building blocks.
+1. No code is written from scratch. All customizations must maximize the use of templates and building blocks.
 
 2. If a part of the site is customized, it has to be documented at the beginning of the code using our Customization Dictionary.
 
