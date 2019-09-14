@@ -7,16 +7,16 @@ Development times must be reduced and leveraged with new tools and techniques so
 
 # WebStreet Strategic Plan
 
-We plan to reduce cycle times to half. Typical time to deliver to clients is 72 hours, we want to shorten this cycle to 36 hours. Our delivery process has always been based on the “Follow The Sun” principle: the customer orders a website and our Master Team starts developing it during the first day, wherever the team is located. At the end of the first workday, this Master Team then transfers the development package to another team located 8 to 12 hours away, and so on until the site is finished. The Master Team must approve the whole cycle at the end and notify the customer.
+We plan to reduce cycle times to half. Typical time to deliver to clients is 72 hours, we want to shorten this cycle to 36 hours. Our delivery process has always been based on the “Follow The Sun” principle: the customer orders a website and our Master Team starts developing it during the first day, wherever the team is located. If the the Master Team finishes their work at the end of the first day, they transfer the development package to another team located 8 to 12 hours away. If they do not finish on the first day, they work on the package one more day. The package can be transferred more than once in the development cycle until the site is finished. The Master Team must approve the whole cycle at the end and notify the customer.
 
-We need to get to the point where packages are transferred only 3 to 4 times instead of 6-7 times like today. We need a new software architecture to achieve this.
+We need to get to the point where packages are transferred only 3 to 4 times instead of 6 to 7 times like today. We need a new software architecture to achieve this.
 
 This project is scheduled to finish in 8 weeks (see High Level Plan). A Project Team, Sponsor and Providers have been appointed to participate and some other key areas will be involced too (See RACI Matrix and Stakeholder Map).
 
 
 # Current Architecture
 
-The current architecture at WebStreet is irregular and does not follow a common pattern. Site developers rely on their own templates and they usually ask for templates from colleagues based on personal relations. This causes problems when the package is transferred: the new team in another country has to “discover” what templates have been used and must read a lot of documentation before start coding. To clearly describe the current architecture we could say “the current architecture is no architecture”.
+The current architecture at WebStreet is irregular and does not follow a common pattern. Site developers rely on their own templates and they usually ask for templates from colleagues based on personal relations. This causes problems when the package is transferred: the new team in another country has to “discover” what templates have been used and must read a lot of documentation before start coding. This fact delays the delivery cycle at least 12 hours. To clearly describe the current architecture we could say “the current architecture is no architecture”.
 
 For a diagram of the current architecture see “Tailored Architecture Framework”.
 
