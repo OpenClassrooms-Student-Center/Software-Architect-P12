@@ -2,16 +2,16 @@
 
 WebStreet is a web agency that specializes in quickly creating websites for clients by using industry and style templates. Developing teams have been overwhelmed by increasing sales of our services to customers all over the world. Several years of development have resulted in a complex software environment, which is clearly not scaling with the business and possibly impeding our growth.
 
-Development times must be reduced and leveraged with new tools and techniques so our developers will be able to deliver faster and cheaper using building blocks and templates for websites. In this project, building blocks are called Site Atoms. This could only be achieved through a new software architecture that will create an agile environment and allow fluid communication and a common language among our development teams all over the world.
+Development times must be reduced and leveraged with new tools and techniques so our developers will be able to deliver faster and cheaper using building blocks and templates for websites. Software building blocks in WebStreet are called Site Atoms. This goal could only be achieved through a new software architecture that will create an agile environment and allow fluid communication and a common language among our development teams all over the world.
 
 
 # WebStreet Strategic Plan
 
-We plan to reduce cycle times to half. Typical time to deliver to clients is 72 hours, we want to shorten this cycle to 36 hours. Our delivery process has always been based on the “Follow The Sun” principle: the customer orders a website and our Master Team starts developing it during the first day, wherever the team is located. If the the Master Team finishes their work at the end of the first day, they transfer the development package to another team located 8 to 12 hours away. If they do not finish on the first day, they work on the package one more day. The package can be transferred more than once in the development cycle until the site is finished. The Master Team must approve the whole cycle at the end and notify the customer.
+We plan to reduce cycle times by half. Typical time to deliver to clients is 72 hours, we want to shorten this cycle to 36 hours. Our delivery process has always been based on the “Follow The Sun” principle: the customer orders a website and our Master Team starts developing it during the first day, wherever the team is located. If the the Master Team finishes their work at the end of the first day, they transfer the development package to another team located 8 to 12 hours away. If they do not finish on the first day, they work on the package one more day. The package can be transferred more than once in the development cycle until the site is finished. The Master Team must approve the whole cycle at the end and notify the customer.
 
 We need to get to the point where packages are transferred only 3 to 4 times instead of 6 to 7 times like today. We need a new software architecture to achieve this.
 
-This project is scheduled to finish in 8 weeks ([High Level Plan](../../Images/13_High_level_plan.png)). A Project Team, Sponsor and Providers have been appointed to participate and some other key areas will be involced too ([RACI Matrix](../../Images/11_RACI.png) and [Stakeholders Map](../../Images/12_Stakeholders_Map.png)).
+This project is scheduled to finish in 8 weeks ([High Level Plan](../../Images/13_High_level_plan.png)). A project team, project sponsors and external providers have been appointed to participate. Some other key areas in the organization will be involved (See [RACI Matrix](../../Images/11_RACI.png) and [Stakeholders Map](../../Images/12_Stakeholders_Map.png)).
 
 
 # Current Architecture
