@@ -1,6 +1,6 @@
 # Project Building Blocks
 
-**Site Atoms:** the minimal unit for building standardized websites.
+**Architecture Building Blocks:** objects, data or schemas used to build website solutions.
 
-**Templates:** a set of Site Atoms that work together for a specific purpose. 
+**Solution Building Blocs:** minimal functions or procedures used to build website solutions. 
 
