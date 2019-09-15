@@ -38,10 +38,9 @@ These tools are deployed in the organization to help with the website developmen
 
 **Site Atoms Dictionary:** a database of all Site Atoms to start with the design and development of a website for a client. See example [here](../../Images/20_Site_Atom_Dictionary.png). Each entry in the dictionary describes the purpose of the Site Atoms, the description, updates to the component, parameters it may receive, typical use and links to projects where this component has been used.
 
-**Configuration Control Dictionary:** a database of relationships between templates and Site Atoms. What calls what, what is called by what.
+**Configuration Control Dictionary:** a database of relationships between templates and Site Atoms. What calls what, what is called by what. See diagram [here](../../Images/15_Configuration_Control_Dictionary.jpg).
 
-**Customization Dictionary:** a detailed description of all customizations done to WebStreet clients, with links to real websites.
-
+**Customization Dictionary:** a detailed description of all customizations done to WebStreet clients, with links to real websites. See diagram [here](../../Images/18_Customization_Dictionary.png), wh
 
 # Interface with Governance Models
 
