@@ -1,4 +1,4 @@
-# Project Building Blocks
+# Architecture Building Blocks
 
 **Site Atoms:** the minimal unit for building standardized websites. See example [here](../../../Images/31_Building_Block_Site_Atom.png).
 
