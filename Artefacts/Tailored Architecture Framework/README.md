@@ -1,6 +1,6 @@
 # Tailored Architecture Framework
 
-WebStreet has a strict architecture framework directly related to the business. This framework is a main competitive advantage for the company since it allows customizing and setting up a client website in less than 72 hours.
+WebStreet has a strict architecture framework directly related to the business. This framework is a main competitive advantage for the company since it allows customizing and setting up a client website in less than 72 hours. WebStreet marketing strategy has always communicated this message to the market, and the market has responded. The Board of the company has always made an effort to make technical teams aware of this advantage and respect deadlines accordingly. 
 
 These are the principles of WebStreet’s architecture methodology:
 
