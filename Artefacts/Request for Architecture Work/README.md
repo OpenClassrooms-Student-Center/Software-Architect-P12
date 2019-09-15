@@ -36,12 +36,16 @@ These are some important organizational constraints that we must take into accou
 
 2. We do not have all the knowledge and experience required for this project inside our organization. We will hire external SMEs (Subject Matter Experts) as freelancers for some technical aspects of this project.
 
-3. Project Sponsors and Project Team will agree on frequency, dynamics and support documents of project status meetings at the beginning of the project. All stakeholders will comply with these agreed principles (See [RACI Matrix](../../Images/11_RACI.png) and [Stakeholders Map](../../Images/12_Stakeholders_Map.png)).
+3. The project sponsors and the project team will agree on frequency, dynamics and support documents of project status meetings at the beginning of the project. All stakeholders will comply with these agreed principles (See [RACI Matrix](../../Images/11_RACI.png) and [Stakeholders Map](../../Images/12_Stakeholders_Map.png)).
 
 
 # Open Issues
 
+These are some open issues that have not been resolved yet:
+
 1. There will be customers that require a high level of customization. We will not be able to use our Site Atoms and templates for these customers. Do we want them as a customer?
 
 2. We currently have Site Atoms and templates only for left-to-right languages (English, French, Spanish, Russian, etc.). Do our architecture, Site Atoms and templates have to support right-to-left languages? (Arabic, Farsi, Hebrew, etc.)
+
+3. If we discover new technologies, methods or tools in the market we currently do not have clear criteria for compliance with our architecture: what if the tool changes the way we handle Site Atoms? What if the new technology makes us change the way templates are built?
 
