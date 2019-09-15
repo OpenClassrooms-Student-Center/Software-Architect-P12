@@ -32,9 +32,11 @@ While providing the exact capability required three-years ago, the current platf
 
 These are some important organizational constraints that we must take into account for this project:
 
-While our staff will dedicate many hours to this project, we cannot ignore our constant deadlines with customers. Serving our customers and fulfilling their expectations in time, budget and quality has been and always will be our #1 priority. Our normal service operations cannot be interrupted because of this project.
-We do not have all the knowledge and experience required for this project inside our organization. We will hire external SMEs (Subject Matter Experts) as freelancers for some technical aspects of this project.
-Project Sponsors and Project Team will agree on frequency, dynamics and support documents of project status meetings at the beginning of the project. All stakeholders will comply with these agreed principles (See [RACI Matrix](../../Images/11_RACI.png) and [Stakeholders Map](../../Images/12_Stakeholders_Map.png)).
+1. While our staff will dedicate many hours to this project, we cannot ignore our constant deadlines with customers. Serving our customers and fulfilling their expectations in time, budget and quality has been and always will be our #1 priority. Our normal service operations cannot be interrupted because of this project.
+
+2. We do not have all the knowledge and experience required for this project inside our organization. We will hire external SMEs (Subject Matter Experts) as freelancers for some technical aspects of this project.
+
+3. Project Sponsors and Project Team will agree on frequency, dynamics and support documents of project status meetings at the beginning of the project. All stakeholders will comply with these agreed principles (See [RACI Matrix](../../Images/11_RACI.png) and [Stakeholders Map](../../Images/12_Stakeholders_Map.png)).
 
 
 # Open Issues
