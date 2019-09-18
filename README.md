@@ -9,8 +9,8 @@ This WebStreet repository is jointly owned and developed by our IT staff in orde
 
 # Architecture Artefacts
 
-* [Request for Architecture Work Document](./Request for Architecture Work/)
-* [Tailored Architecture Framework Document](./Tailored Architecture Framework/)
-* [Building Blocks](./Building Blocks)
+* [Request for Architecture Work Document](./Request for Architecture Work/README.md)
+* [Tailored Architecture Framework Document](./Tailored Architecture Framework/README.md)
+* [Building Blocks](./Building Blocks/README.md)
 
 
