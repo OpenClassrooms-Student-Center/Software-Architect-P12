@@ -11,7 +11,7 @@ We plan to reduce cycle times by half. Typical time to deliver to clients is 72 
 
 We need to get to the point where packages are transferred only 3 to 4 times instead of 6 to 7 times like today. We need a new software architecture to achieve this.
 
-This project is scheduled to finish in 8 weeks (see [High Level Plan](../../Images/13_High_level_plan.png)). A project team, project sponsors and external providers have been appointed to participate. Some other key areas in the organization will be involved (See [RACI Matrix](../../Images/11_RACI.png) and [Stakeholders Map](../../Images/12_Stakeholders_Map.png)).
+This project is scheduled to finish in 8 weeks (see [High Level Plan](../../Images/13_High_level_plan.png)). A project team, project sponsors and external providers have been appointed to participate. Some other key areas in the organization will be involved (See [RACI Matrix](../../Images/11_RACI.xlsx) and [Stakeholders Map](../../Images/12_Stakeholders_Map.png)).
 
 
 # Current Architecture
@@ -36,7 +36,7 @@ These are some important organizational constraints that we must take into accou
 
 2. We do not have all the knowledge and experience required for this project inside our organization. We will hire external SMEs (Subject Matter Experts) as freelancers for some technical aspects of this project.
 
-3. The project sponsors and the project team will agree on frequency, dynamics and support documents of project status meetings at the beginning of the project. All stakeholders will comply with these agreed principles (See [RACI Matrix](../../Images/11_RACI.png) and [Stakeholders Map](../../Images/12_Stakeholders_Map.png)).
+3. The project sponsors and the project team will agree on frequency, dynamics and support documents of project status meetings at the beginning of the project. All stakeholders will comply with these agreed principles (See [RACI Matrix](../../Images/11_RACI.xlsx) and [Stakeholders Map](../../Images/12_Stakeholders_Map.png)).
 
 
 # Open Issues
