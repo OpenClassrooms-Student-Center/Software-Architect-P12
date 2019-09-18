@@ -36,7 +36,7 @@ Our templates and Site Atoms are divided into two groups:
 
 These tools are deployed in the organization to help with the website development and setup. They are available to all development teams:
 
-**Site Atoms Dictionary:** a database of all Site Atoms to start with the design and development of a website for a client. See example [here](../../Images/20_Site_Atom_Dictionary.png). Each entry in the dictionary describes the purpose of the Site Atoms, the description, updates to the component, parameters it may receive, typical use and links to projects where this component has been used.
+**Site Atoms Dictionary:** a database of all Site Atoms to start with the design and development of a website for a client. See example [here](../../Images/20_Site_Atom_Dictionary.xlsx). Each entry in the dictionary describes the purpose of the Site Atoms, the description, updates to the component, parameters it may receive, typical use and links to projects where this component has been used.
 
 **Configuration Control Dictionary:** a database of relationships between templates and Site Atoms. What calls what, what is called by what. See diagram [here](../../Images/15_Configuration_Control_Dictionary.png).
 
@@ -44,7 +44,7 @@ These tools are deployed in the organization to help with the website developmen
 
 # Interface with Governance Models
 
-This strict architecture method used in WebStreet could not be a main competitive advantage without the formal support of the organization and internal culture. See [RACI Matrix](../../Images/11_RACI.png) and [Stakeholders Map](../../Images/12_Stakeholders_Map.png). The following interfaces have contributed to its success and WebStreet success in the market:
+This strict architecture method used in WebStreet could not be a main competitive advantage without the formal support of the organization and internal culture. See [RACI Matrix](../../Images/11_RACI.xlsx) and [Stakeholders Map](../../Images/12_Stakeholders_Map.png). The following interfaces have contributed to its success and WebStreet success in the market:
 
 **Interface with the Recruitment Department:** no programmer or designer writes one line of code if she or he is not trained in WebStreet architecture methodology. This is carefully synchronized between technical teams and WebStreet Recruitment Department (part of HR Department).
 
