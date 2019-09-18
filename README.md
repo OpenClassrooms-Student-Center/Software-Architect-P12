@@ -1,47 +1,16 @@
-# WebStreet
+# WebStreet Architecture Repository
 
-# Architecture Definition Document
+This WebStreet repository is jointly owned and developed by our IT staff in order to consolidate shared resources, tools and lessons learned.
 
-# Executive Summary 
+# Organisational Artefacts
 
-This document details the baseline architectures and business proposition of the project.
-
-# Purpose
-
-The Architecture Definition Document is the deliverable container for the core architectural artefacts created during this project. The Architecture Definition Document describes all architecture domains (business, data, application, and technology)...
-
-# Business Context and Drivers
-
-WebStreet ...
-
-Stakeholder Map here
+* [RACI Matrix](./Images/11_RACI.png)
 
 
-# Scope and Project Goals
+# Architecture Artefacts
 
-The purpose of this section is to outline the scope of the architecture for key domains and clarify the scope of this document.
-
-### Sponsors
-
-| *Sponsor* | *Role and Organisation* | *Sponsored Outcomes* |
-| --------- | -------------- | --------------------- |
-| 1 | CIO, xxx  | *xxx* |
-
-
-#### Constraints    
-
-* Existing systems and processes must not be interrupted and / or stopped during any phase of the project. 
-* The Star webiste must be up during all the project.
-
-# Target Business and Architectural State
-This project aims to deliver...
-
-# Tailored Architecture
-
-The project will follow ... 
-
-# Architecture Principles
-The architecture should be built on ...  
-
+* [Request for Architecture Work Document](./Request for Architecture Work/)
+* [Tailored Architecture Framework Document](./Tailored Architecture Framework/)
+* [Building Blocks](./Building Blocks)
 
 
