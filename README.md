@@ -4,7 +4,7 @@ This WebStreet repository is jointly owned and developed by our IT staff in orde
 
 # Organisational Artefacts
 
-* [RACI Matrix](./Images/11_RACI.png)
+* [RACI Matrix](./Images/11_RACI.xlsx)
 
 
 # Architecture Artefacts
